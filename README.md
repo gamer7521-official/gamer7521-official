@@ -50,6 +50,12 @@ Plugins für Spigot- und Paper-Server-Architekturen:
 - **Custom Mechanics:** Einzigartige Gameplay-Features für Streamer-Events.
 
 
+// Strukturierte Initialisierung von Stream-Overlays
+document.addEventListener("DOMContentLoaded", () => {
+    // Globales Projekt-Setup & UI Event Handling
+    console.log("[gamer7521-Core] Web-Interface vollständig geladen.");
+});
+
 ---
 
 ### 🤖 INFO
