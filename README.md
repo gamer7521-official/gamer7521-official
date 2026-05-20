@@ -52,7 +52,7 @@ Plugins für Spigot- und Paper-Server-Architekturen:
 
 ---
 
-### 🤖 Generiertes Profil
+### 🤖 INFO
 <p align="left">
   <sub><i>Dieses GitHub Profile README wurde in Zusammenarbeit mit einer KI strukturiert, optimiert und zusammengefasst, um meinen Tech-Stack und meine Projekte sauber zu präsentieren.</i></sub>
 </p>
