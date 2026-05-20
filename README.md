@@ -24,14 +24,14 @@ Ich entwickle maßgeschneiderte Tools, interaktive Webinhalte und professionelle
 ### 🛠️ Tech Stack & Skills
 | Bereich | Technologien & Tools |
 | :--- | :--- |
-| **Sprachen** | Java, Python, JavaScript, HTML5, CSS3 |
+| **Sprachen** | Java, Python, JavaScript, HTML, CSS |
 | **Streaming** | StreamElements Custom Widgets, API-Anbindungen, Live-Animationen |
 | **Gaming** | Spigot API, Paper API, Minecraft Modding (Forge/Fabric in Learning) |
 | **Web Dev** | Responsive Frontends, Utility Backends, Event-driven UIs |
 
 ---
 
-### 📂 Projekt-Ökosystem
+### 📂 Projekt-Ökosystem: 
 
 #### 🎥 Stream Tools & Overlays
 Interaktive Overlays direkt innerhalb von StreamElements auf Basis von nativem Web-Stack:
@@ -45,29 +45,6 @@ Konzeptionierung und Deployment von Web-Interfaces ohne einschränkende Baukaste
 - Administrations- & Statistik-Dashboards für Gaming-Projekte.
 
 #### ⛏️ Minecraft Plugin Development
-Robuste Plugins für Spigot- und Paper-Server-Architekturen:
+Plugins für Spigot- und Paper-Server-Architekturen:
 - **Server Utilities:** Maßgeschneiderte Administrationstools für Teammitglieder.
 - **Custom Mechanics:** Einzigartige Gameplay-Features für Streamer-Events.
-
----
-
-### ⚙️ Code Style & Vorlagen
-
-java
-// Beispielstruktur für ein robustes Spigot/Paper-Plugin
-package com.gamer7521.project;
-
-import org.bukkit.plugin.java.JavaPlugin;
-
-public class Main extends JavaPlugin {
-
-    @Override
-    public void onEnable() {
-        this.getLogger().info("Plugin erfolgreich initialisiert und geladen.");
-    }
-
-    @Override
-    public void onDisable() {
-        this.getLogger().info("Plugin sicher beendet.");
-    }
-}
