@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
+<p align="center">
+  <video src="public/tech.mp4" width="100%" autoplay muted loop playsinline>
+    Dein Browser unterstützt das Video-Tag nicht.
+  </video>
+</p>
+
 ---
 
 ### 🧠 Über mich
